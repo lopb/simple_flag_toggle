@@ -14,9 +14,9 @@ Nice rolling animation during toogle (credits to [this project](https://pub.dev/
   
 ## Platform support
 
-| Simple Navigation Menu | Android | iOS | macOS | Web | Windows | Linux |
-| ---------------------- | :-----: | :-: | :---: | :-: | :-----: | :---: |
-| Compatibility          |   ✅   |  ✅  |  ✅  | ✅ |   ✅   |  ✅  |
+| Simple Flag Toggle | Android | iOS | macOS | Web | Windows | Linux |
+| ------------------ | :-----: | :-: | :---: | :-: | :-----: | :---: |
+| Compatibility      |   ✅   |  ✅  |  ✅  | ✅ |   ✅   |  ✅  |
   
 ## Getting started
   
@@ -58,7 +58,7 @@ Nice rolling animation during toogle (credits to [this project](https://pub.dev/
   
 For more details, see [the example section](https://pub.dev/packages/simple_flag_toggle/example).
   
-## Parameters for SimpleNavHome
+## Parameters
   
 Required:
 
