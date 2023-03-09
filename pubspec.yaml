@@ -1,6 +1,6 @@
 name: simple_flag_toggle
 description: A library to help you toggle between flags and use a callback function onChanged.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/lopb/simple_flag_toggle
 repository: https://github.com/lopb/simple_flag_toggle
 issue_tracker: https://github.com/lopb/simple_flag_toggle/issues

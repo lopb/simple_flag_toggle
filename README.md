@@ -1,6 +1,6 @@
 A simple flag toggle that can be placed anywhere on your application, ideal for internationalization (i18n).  
   
-[![Build CI](https://github.com/lopb/simple_flag_toggle/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/lopb/simple_flag_toggle/actions/workflows/build.yml?branch=master) [![codecov](https://codecov.io/gh/lopb/simple_flag_toggle/branch/master/graph/badge.svg)](https://app.codecov.io/gh/lopb/simple_flag_toggle/tree/master?displayType=list) [![pub package](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+[![Build CI](https://github.com/lopb/simple_flag_toggle/actions/workflows/build.yml/badge.svg)](https://github.com/lopb/simple_flag_toggle/actions/workflows/build.yml?branch=master) [![codecov](https://codecov.io/gh/lopb/simple_flag_toggle/branch/master/graph/badge.svg)](https://app.codecov.io/gh/lopb/simple_flag_toggle/tree/master?displayType=list) [![pub package](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
   
 | Simple toggle for country/region flags |
 |:-------:|
